@@ -63,7 +63,7 @@ router.get('/', async (req, res) => {
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 Arima Forger 𖥘
+❶ || Creator = 𖥘 Arima 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VatUVBSHrDZcV6K0DH0I
 ▬▬▬▬▬▬▬▬▬▬▬▬
